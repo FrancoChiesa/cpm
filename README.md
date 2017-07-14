@@ -4,10 +4,11 @@ Todo el contenido de este repositorio está bajo licencia.
 
 
 ## Tipografías
-Lista de tipografías utilizadas:
+Lista de tipografías utilizadas, todas deben ser gratuitas:
 + Romance Fatal Serif: http://www.dafont.com/es/romance-fatal-serif.font
 + Raspoutine: http://www.dafont.com/es/raspoutine.font
 + Caviar dreams: http://www.dafont.com/es/caviar-dreams.font
++ Muro: http://www.dafont.com/es/muro.font
 
 ## Software
 Todo el contenido de este repositorio, debe poder ser accedido con total compatibilidad con el software aquí detallado, según corresponda:
