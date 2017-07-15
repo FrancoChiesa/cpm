@@ -1,0 +1,257 @@
+body{
+	padding-top: 100px;
+	background-image: url(../images/bgBody.jpg);
+	background-position: top left;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#menuprincipal{
+	background-color: #FFF;
+	position: absolute;
+	width: 100%;
+	top: 20px;
+	z-index: 99;
+}
+
+/*#menuprincipal{
+	margin-right:auto;
+	margin-left:auto;
+	padding-left:15px;
+	padding-right:15px;
+	background-color: #FFF;
+}
+@media (min-width:768px){
+	#menuprincipal{
+		width:750px;
+	}
+}
+@media (min-width:992px){
+	#menuprincipal{
+		width:970px;
+	}
+}
+@media (min-width:1200px){
+	#menuprincipal{
+		width:1170px;
+	}
+}*/
+
+#overview img{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+#logo{
+	padding-top: 5px;
+	display: block;
+}
+
+#footer{
+	margin-top: 60px;
+	background-color: #FFE26B;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+#footer .list-group-item:link{
+	background-color: rgba(255,255,255,0.3);
+	border: 0;
+}
+
+#menuprincipal.affix {
+    position: fixed!important;
+    top: 0!important;
+    width: 100%!important;
+    z-index: 99;    
+}
+
+address{
+	font-size: 1.5em;
+}
+
+#imagenSeccion{
+	margin-bottom: 20px;
+}
+
+/**************************** Quiero ayudar ****************************/
+
+#voluntariado .active>a, #voluntariado .panel-heading, #donaciones .active>a, #donaciones .panel-heading{
+	background-color: #f6c438!important;
+	color: #FFF;
+}
+
+#voluntariado nav, #donaciones nav{
+	border-top: 3px solid #f6c438;
+}
+
+/**************************** Necesito ayuda ****************************/
+
+#internacion .active>a, #internacion .panel-heading, #centro_de_dia .active>a, #centro_de_dia .panel-heading, #grupo_para_familiares .active>a, #grupo_para_familiares .panel-heading, #material_de_lectura .active>a, #material_de_lectura .panel-heading{
+	background-color: #EF8812!important;
+	color: #FFF;
+}
+
+#internacion nav, #centro_de_dia nav, #grupo_para_familiares nav, #material_de_lectura nav{
+	border-top: 3px solid #EF8812;
+}
+
+
+/**************************** Espiritualidad ****************************/
+
+#grupo_de_oracion .active>a, #grupo_de_oracion .panel-heading, #adoracion_eucaristica .active>a, #adoracion_eucaristica .panel-heading{
+	background-color: #C4C4C4!important;
+	color: #FFF;
+}
+
+#grupo_de_oracion nav, #adoracion_eucaristica nav{
+	border-top: 3px solid #C4C4C4;
+}
+
+
+/**************************** Acerca de ****************************/
+
+#quienes_somos .active>a, #quienes_somos .panel-heading, #eventos .active>a, #eventos .panel-heading, #rendicion_de_cuentas .active>a, #rendicion_de_cuentas .panel-heading, #contacto .active>a, #contacto .panel-heading{
+	background-color: #222!important;
+	color: #FFF;
+}
+
+#quienes_somos nav, #eventos nav, #rendicion_de_cuentas nav, #contacto nav{
+	border-top: 3px solid #222;
+}
+
+
+/**************************** Hover menú ****************************/
+
+
+#necesitoAyuda>a:hover{
+	background-image: url(../images/hoverNecesitoAyuda.png);
+	background-repeat: repeat-x;
+	background-position: bottom center;
+}
+
+#quieroAyudar>a:hover{
+	background-image: url(../images/hoverQuieroAyudar.png);
+	background-repeat: repeat-x;
+	background-position: bottom center;
+}
+
+#espiritualidad>a:hover{
+	background-image: url(../images/hoverEspiritualidad.png);
+	background-repeat: repeat-x;
+	background-position: bottom center;
+}
+
+#acercaDe>a:hover{
+	background-image: url(../images/hoverAcercaDe.png);
+	background-repeat: repeat-x;
+	background-position: bottom center;
+}
+.horario{
+	padding: 5px;
+	margin: 45px auto 35px auto;
+	font-size: 1.5em;
+	text-align: center;
+}
+#voluntariado .horario, #donaciones .horario{
+	border-top: 1px dotted #F6C438;
+	border-bottom: 1px dotted #F6C438;
+}
+#grupo_para_familiares .horario, #centro_de_dia .horario{
+	border-top: 1px dotted #EF8812;
+	border-bottom: 1px dotted #EF8812;
+}
+h1{
+	font-size: 3em;
+	color: #FFF;
+	background-color: #999;
+	padding: 5px 5px 5px 15px;
+	margin-top: 40px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+#voluntariado h1, #donaciones h1{
+	background-color: #F6C438;
+}
+#grupo_de_oracion h1{
+	background-color: #C4C4C4;
+}
+#quienes_somos h1,#eventos h1, #contacto h1{
+	background-color: #222;
+}
+.row h1:first-child{
+	margin-top: 2px;
+}
+ul{
+	list-style-type: square;
+}
+
+.testimonio-r{
+	text-align: right;
+}
+
+.testimonio-l{
+	text-align: left;
+}
+
+.testimonio-r img{
+	margin-left: 20px;
+}
+
+.testimonio-l img{
+	margin-right: 20px;
+}
+
+.testimonio-l p, .testimonio-r p{
+	padding-top: 15px;
+}
+
+.testimonio-l .nombre, .testimonio-r .nombre{
+	color: #999;
+}
+
+#valor-esperanza{
+	background-image: url('../images/home1.png');
+	margin-top: 10px;
+	width: 260px;
+	height: 260px;
+	display: block;
+	margin-bottom: 25px;
+}
+#valor-trabajo-responsable{
+	background-image: url('../images/home1.png');
+	margin-top: 10px;
+	width: 260px;
+	height: 260px;
+	display: block;
+	margin-bottom: 25px;
+}
+#valor-dialogo{
+	background-image: url('../images/home1.png');
+	margin-top: 10px;
+	width: 260px;
+	height: 260px;
+	display: block;
+	margin-bottom: 25px;
+}
+#valor-amor{
+	background-image: url('../images/home1.png');
+	margin-top: 10px;
+	width: 260px;
+	height: 260px;
+	display: block;
+	margin-bottom: 25px;
+}
+
+.valor{
+	font-size: 1500%;
+	color: #F4DB7E;
+	padding-left: 24px;
+	padding-top: 41px;
+}
+
+#descNosotros{
+	font-size: 170%;
+	text-align: center;
+	color: #555;
+}
