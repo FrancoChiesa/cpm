@@ -9,6 +9,7 @@ Lista de tipografías utilizadas, todas deben ser gratuitas:
 + Raspoutine: http://www.dafont.com/es/raspoutine.font
 + Caviar dreams: http://www.dafont.com/es/caviar-dreams.font
 + Muro: http://www.dafont.com/es/muro.font
++ Just Gotta Smile: http://www.dafont.com/es/just-gotta-smile.font
 
 ## Software
 Todo el contenido de este repositorio, debe poder ser accedido con total compatibilidad con el software aquí detallado, según corresponda:
