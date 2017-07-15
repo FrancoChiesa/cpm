@@ -10,6 +10,8 @@ Lista de tipografías utilizadas, todas deben ser gratuitas:
 + Caviar dreams: http://www.dafont.com/es/caviar-dreams.font
 + Muro: http://www.dafont.com/es/muro.font
 + Just Gotta Smile: http://www.dafont.com/es/just-gotta-smile.font
++ Dancing Script: https://www.fontsquirrel.com/fonts/dancing-script-ot
++ Levi Brush: http://www.dafont.com/es/levibrush.font
 
 ## Software
 Todo el contenido de este repositorio, debe poder ser accedido con total compatibilidad con el software aquí detallado, según corresponda:
