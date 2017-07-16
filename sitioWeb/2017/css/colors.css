@@ -207,15 +207,15 @@ input.switch-toggle-round:checked + label:before,
 .pagination > .active > a:hover,
 .pagination > .active > span:hover,
 .pagination > .active > a:focus,
-.pagination > .active > span:focus { border-color: #2e8ece !important; }
+.pagination > .active > span:focus { border-color: #F9A221 !important; }
 
 .fbox-effect.fbox-dark .fbox-icon i:after,
-.dark .fbox-effect.fbox-dark .fbox-icon i:after { box-shadow: 0 0 0 2px #2e8ece; }
+.dark .fbox-effect.fbox-dark .fbox-icon i:after { box-shadow: 0 0 0 2px #F9A221; }
 
 .fbox-border.fbox-effect.fbox-dark .fbox-icon i:hover,
 .fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i,
 .dark .fbox-border.fbox-effect.fbox-dark .fbox-icon i:hover,
-.dark .fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i { box-shadow: 0 0 0 1px #2e8ece; }
+.dark .fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i { box-shadow: 0 0 0 1px #F9A221; }
 
 
 @media only screen and (max-width: 991px) {
@@ -226,15 +226,15 @@ input.switch-toggle-round:checked + label:before,
 	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li.current a,
 	#primary-menu ul ul li:hover > a,
 	#primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title:hover > a,
-	#primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title > a:hover { color: #2e8ece !important; }
+	#primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title > a:hover { color: #F9A221 !important; }
 
-	#page-menu nav { background-color: #2e8ece; }
+	#page-menu nav { background-color: #F9A221; }
 
 }
 
 
 @media only screen and (max-width: 767px) {
 
-	.portfolio-filter li a:hover { color: #2e8ece; }
+	.portfolio-filter li a:hover { color: #F9A221; }
 
 }
