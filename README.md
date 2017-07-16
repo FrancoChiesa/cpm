@@ -1,7 +1,7 @@
 # Repositorio "CPM"
 Repositorio de material digital dirigido especialmente a colaboradores de Comunidad Padre Misericordioso.
-Todo el contenido de este repositorio está bajo licencia.
 
+Todo el contenido de este repositorio está bajo licencia.
 
 ## Tipografías
 Lista de tipografías utilizadas, todas deben ser gratuitas:
