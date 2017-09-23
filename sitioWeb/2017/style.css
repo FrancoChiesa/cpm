@@ -13414,3 +13414,21 @@ body:not(.no-transition) #wrapper,
 #dispositivos p {
 	margin-bottom: 15px;
 }
+
+.accordion.accordion-bg .acctitle:hover,
+.accordion.accordion-bg .acctitlec:hover,
+.accordion.accordion-bg .acctitlec {
+	background-color: #FFEACA;
+}
+
+.accordion.accordion-bg .acctitle:active,
+.accordion.accordion-bg .acctitlec:active {
+	background-color: #F9A221;
+}
+
+.footerSocial {
+	color: #5A5A5A;
+	font-size: 200%;
+	padding: 5px 10px;
+	margin: 0 5px;
+}
